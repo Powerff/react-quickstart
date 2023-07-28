@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+
+本项目来源于《腾讯云 Cloud Studio 实战训练营》的参赛作品，该作品在 腾讯云 Cloud Studio 中运行无误
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -68,3 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
